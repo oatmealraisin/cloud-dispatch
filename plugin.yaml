@@ -1,0 +1,7 @@
+name: cloud-dispatch
+version: "0.3.1"
+description: Start and steer Claude Code cloud sessions on a branch, with a local worktree in herdr (cloud_start, cloud_send, cloud_status)
+provides_tools:
+  - cloud_start
+  - cloud_send
+  - cloud_status
